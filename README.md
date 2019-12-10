@@ -4,6 +4,8 @@
 
 Data Profiling, Quality and Analysis on public dataset on NYCOpenData.
 
+[Dataset: NYC Open Data](https://opendata.cityofnewyork.us/)
+
 ### Task 1 : Generic Profiling
 
 Open data often comes with little or no metadata. You will profile a large collection of open data sets and derive metadata that can be used for data discovery, querying, and identification of data quality problems.<br>
