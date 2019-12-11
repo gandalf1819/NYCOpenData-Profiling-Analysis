@@ -85,6 +85,13 @@ complaint types frequent in all five boroughs of the City? How might you explain
 differences? How does the distribution of complaints change over time for certain
 neighborhoods and how could this be explained?
 
+![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-1.png)
+
+![Viz-3.2](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-2.png)
+
+![Viz-3.3](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-3.png)
+
+
 # Team 
 
 * [Chinmay Wyawahare](https://github.com/gandalf1819)
