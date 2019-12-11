@@ -80,10 +80,10 @@ CHURCH, CLOTHING/BOUTIQUE)
 
 ### Task 3 : Data Analysis
 
-Identify the three most frequent 311 complaint types by borough. Are the same
-complaint types frequent in all five boroughs of the City? How might you explain the
-differences? How does the distribution of complaints change over time for certain
-neighborhoods and how could this be explained?
+* Identify the three most frequent 311 complaint types by borough. 
+* Are the same complaint types frequent in all five boroughs of the City? 
+* How might you explain the differences? 
+* How does the distribution of complaints change over time for certain neighborhoods and how could this be explained?
 
 ![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-1.png)
 
