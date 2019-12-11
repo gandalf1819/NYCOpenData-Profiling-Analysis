@@ -39,6 +39,8 @@ For columns that contain at least one value of type TEXT report:<br>
 * Top-5 Longest values(s) (the values with longest length)<br>
 * Average value length
 
+![Viz-1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/task1-viz.png)
+
 ### Task 2 : Semantic Profiling
 
 For each column, identify and summarize semantic types present in the column. These can be generic types (e.g., city, state) or collection-specific types (NYU school names, NYC agency). <br>
@@ -69,6 +71,12 @@ You will look for the following types and add one or more semantic type labels t
 * Type of location (e.g., ABANDONED BUILDING, AIRPORT TERMINAL, BANK,
 CHURCH, CLOTHING/BOUTIQUE)
 * Parks/Playgrounds (e.g., CLOVE LAKES PARK, GREENE PLAYGROUND)
+
+
+![Viz-2](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/task2-viz.png)
+
+
+![Viz-2.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/task2-viz2.png)
 
 ### Task 3 : Data Analysis
 
