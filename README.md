@@ -100,6 +100,8 @@ CHURCH, CLOTHING/BOUTIQUE)
 #### Heat Map representing the Types of complaints that are open in the Brooklyn region
 ![Viz-3.7](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-7.png)
 
+![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Task-3-Data-Analysis.pdf)
+
 # Team 
 
 * [Chinmay Wyawahare](https://github.com/gandalf1819)
