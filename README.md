@@ -84,7 +84,8 @@ CHURCH, CLOTHING/BOUTIQUE)
 * Are the same complaint types frequent in all five boroughs of the City? 
 * How might you explain the differences? 
 * How does the distribution of complaints change over time for certain neighborhoods and how could this be explained?
-
+### Data Visualizations
+#### Types of complaints across the different boroughs
 ![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-1.png)
 
 ![Viz-3.2](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-2.png)
