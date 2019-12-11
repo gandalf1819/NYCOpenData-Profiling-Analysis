@@ -97,6 +97,7 @@ neighborhoods and how could this be explained?
 
 ![Viz-3.6](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-6.png)
 
+![Viz-3.7](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-7.png)
 
 # Team 
 
