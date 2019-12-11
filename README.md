@@ -87,17 +87,17 @@ CHURCH, CLOTHING/BOUTIQUE)
 ### Data Visualizations
 #### Types of complaints across the different boroughs
 ![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-1.png)
-
+#### Distribution of "closed-dates" across the different boroughs
 ![Viz-3.2](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-2.png)
-
+#### Heat Map Representing Status of Complaints Across The Different Boroughs
 ![Viz-3.3](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-3.png)
-
+#### Heat Map Representing Count Of Complaints Across The Different Boroughs
 ![Viz-3.4](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-4.png)
-
+#### Distribution of Complaint Types and their resolution dates
 ![Viz-3.5](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-5.png)
-
+#### Types of complaints across various different locations
 ![Viz-3.6](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-6.png)
-
+#### Heat Map representing the Types of complaints that are open in the Brooklyn region
 ![Viz-3.7](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-7.png)
 
 # Team 
