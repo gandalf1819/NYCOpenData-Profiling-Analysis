@@ -1,6 +1,8 @@
 # NYCOpenData-Profiling-Analysis
 
 ![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Poster-1-2x3.png)
+![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Poster-2-2x3.png)
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
