@@ -1,14 +1,15 @@
 # NYCOpenData-Profiling-Analysis
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 ![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Poster-1-2x3.png)
 ![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Poster-2-2x3.png)
-
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 Data Profiling, Quality and Analysis on public dataset on NYCOpenData.
 
 [Dataset: NYC Open Data](https://opendata.cityofnewyork.us/)
+
+![NYC-Open-Data](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/nyc-open-data.png)
 
 ### Task 1 : Generic Profiling
 
