@@ -2,14 +2,19 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" width="300"> <img src="https://modin.readthedocs.io/en/latest/_static/MODIN_ver2.png" width="200"> <img src="https://pbs.twimg.com/media/D958JC_XUAsuvWR.jpg" width="250"> <br> 
+
 ![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Poster-1-2x3.png)
 ![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Poster-2-2x3.png)
 
 Data Profiling, Quality and Analysis on public dataset on NYCOpenData.
 
-[Dataset: NYC Open Data](https://opendata.cityofnewyork.us/)
+## Dataset
 
-![NYC-Open-Data](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/nyc-open-data.png)
+<img src="https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/nyc-open-data.png" width="300">
+
+[Dataset: NYC Open Data](https://opendata.cityofnewyork.us/)
 
 ### Task 1 : Generic Profiling
 
