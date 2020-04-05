@@ -116,3 +116,11 @@ CHURCH, CLOTHING/BOUTIQUE)
 * [Chinmay Wyawahare](https://github.com/gandalf1819)
 * [Vineet Viswakumar](https://github.com/vineet247)
 * [HemanthTeja Yanambakkam](https://github.com/HemanthTejaY)
+
+## Support
+
+If you found this useful, please consider starring(★) the repo so that it can reach a broader audience
+
+## License
+
+This project is licensed under the MIT License. Feel free to create a Pull Request for adding implementations or suggesting new ideas to make the analysis more insightful
