@@ -2,6 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+<p align="center">
+    <a href="https://www.buymeacoffee.com/wyavs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35px"></a>
+</p>
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" width="300"> <img src="https://modin.readthedocs.io/en/latest/_static/MODIN_ver2.png" width="200"> <img src="https://pbs.twimg.com/media/D958JC_XUAsuvWR.jpg" width="250"> <br> 
 
